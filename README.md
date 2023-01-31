@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **shettyveda12@gmail.com**
 
-- ⚡ Fun fact **#Aesthete🦋**
+- ⚡ Fun fact **#CRAZY,Aesthete🦋**
 
 <h3 align="left">Connect with me:</h3>
 
