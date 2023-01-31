@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Vedhavathi P.H</h1>
     
-    
-  <img align="right" alt="Coding" width="400" src="  ">  
-    
-    
+
+  
+  
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+ <img align="right" alt="Coding" width="400" src="  ">
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Python**
