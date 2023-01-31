@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **My skill**
 
-- 📝 I regularly write articles on [Python](Python)
+- 📝 I regularly write articles on **python**
 
 - 💬 Ask me about **Python**
 
